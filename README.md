@@ -4,7 +4,7 @@
   
 
 <br>
-<h1> Demo Checkout Payment 
+<h1> Checkout Payment Demo 
     <br>
     <p style="font-size: 21px;font-weight: 100;">Payment gateway with Stripe, paypal, card form</p>
     <br>
